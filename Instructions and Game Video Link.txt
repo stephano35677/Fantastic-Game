@@ -1,0 +1,20 @@
+1) Both players should enter their names in the text fields.
+2) When choosing each player's champions, the first player will choose the first champion then the second player will choose their first champion then the first player chooses the next one and so on, once a champion is selected by a player the other player can't choose it (no repeated champions).
+3) Click once on the champion to view their details and click add if you choose to add them.
+4) When choosing each player's leader, each player should click once on a champion to choose it as the leader.
+5) During battle, to move your current champion use the buttons on the keyboard number pad (5, 1, 2 or 3), make sure your num lock is turned on.
+6) To attack, use the w, s, a or d with w representing up, s representing down, a representing left, d representing right.
+7) To end your turn, click once on the endturn button.
+8) To use your leader's ability, make sure that the current champion is the leader and click once on use leader ability button on the right of the board. Note that the ability depends on your leader's type, if it's a Hero, it'll remove all the negative effects on player's team and add an embrace effect to them, if it's a Villain, it'll eliminate all enemy champions with HP less than 30% and if it's an Anti-Hero, it'll cause all champions on board to be stunned except for the leaders.
+9) To cast ability 1 of current champion, click on the button ability 1 on the right of the board.
+10) To cast ability 2 of current champion, click on the button ability 2 on the right of the board.
+11) To cast ability 3 of current champion, click on the button ability 3 on the right of the board.
+12) To cast ability 4 of current champion click on the button ability 4 on the right on the board that appears only if you have a disarm effect applied on you.
+13) An ability with a single target cast area, you'll have to click on the target after clicking on the ability button.
+14) An ability with a directional cast area, you'll have to press on (w, a, s or d) to indicate the direction desired.
+15) When hovering on a champion or a cover, its details will appear in a pop up window and when not the pop up will close.
+16) Once a player's champions are all dead the other player is the winner.
+
+
+Youtube Link:
+https://www.youtube.com/watch?v=fgVr2FUPQ5I
